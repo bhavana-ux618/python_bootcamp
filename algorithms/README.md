@@ -1,10 +1,22 @@
 # Algorithms Projects
 
-This folder contains algorithm and data structure practice projects implemented using Python.
+This folder contains Python projects focused on algorithms and data structures.
 
-## Projects
+## Projects Included
 
 * Sudoku Solver
 * Merge Sort
 * Binary Search Tree
 * Dijkstra Algorithm
+
+## Skills Practiced
+
+* Recursion
+* Searching & Sorting
+* Problem Solving
+* Data Structures
+* Algorithm Optimization
+
+## Language
+
+Python
