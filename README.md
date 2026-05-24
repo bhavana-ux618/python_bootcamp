@@ -1,8 +1,8 @@
 Here’s a professional overall README for your AI Bootcamp repository 🚀🔥
 
-# 🤖 AI Bootcamp Python Projects
+# 🤖 Bootcamp Python Projects
 
-Welcome to my **AI Bootcamp Repository**!
+Welcome to my **Python Bootcamp Repository**!
 This repository contains a collection of Python projects, algorithms, games, beginner applications, and Object-Oriented Programming (OOP) projects developed during my learning journey in Python, AI, and problem-solving.
 
 The projects in this repository helped me strengthen my understanding of:
